@@ -1,1 +1,1 @@
-# e2e-typesafe-api-client
+# e2e-typesafe-client
